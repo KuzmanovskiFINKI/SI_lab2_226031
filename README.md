@@ -22,7 +22,7 @@ Item6={name="Item6",barcode="",price="400",discount="0.4f"}
 Branches that need to be tested:\
 ![image](https://github.com/KuzmanovskiFINKI/SI_lab2_226031/assets/130047482/68e746ea-6fca-4521-a28b-8948de9f1744)
 
-### MultipleCondition тест случаи\
+### MultipleCondition тест случаи
 ![image](https://github.com/KuzmanovskiFINKI/SI_lab2_226031/assets/130047482/adae2f86-a669-418f-aa17-cbc1faff1465)
 
 ### Објаснување на Unit Tests
