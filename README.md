@@ -16,7 +16,7 @@ Item1={name="Item1",barcode="0123456",price="350",discount="0.1f"}\
 Item2={name="Item2",barcode="654321",price="10",discount="0"}\
 Item3={name=null,barcode="111111",price="300",discount="0.4f"}\
 Item4={name="Item4",barcode="1234a6",price="400",discount="0.4f"}\
-Item5={name="Item5",barcode=null,price="400",discount="0.4f"}
+Item5={name="Item5",barcode=null,price="400",discount="0.4f"}\
 Item6={name="Item6",barcode="",price="400",discount="0.4f"}
 
 Branches that need to be tested:\
