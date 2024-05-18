@@ -20,13 +20,15 @@ Item5={name="Item5",barcode=null,price="400",discount="0.4f"}\
 Item6={name="Item6",barcode="",price="400",discount="0.4f"}
 
 Branches that need to be tested:\
-![image](https://github.com/KuzmanovskiFINKI/SI_lab2_226031/assets/130047482/68e746ea-6fca-4521-a28b-8948de9f1744)
+![image](https://github.com/KuzmanovskiFINKI/SI_lab2_226031/assets/130047482/45a7c81b-0c43-4ea3-90b4-ae87ea98d8ab)
+
+
 
 ### MultipleCondition тест случаи
 ![image](https://github.com/KuzmanovskiFINKI/SI_lab2_226031/assets/130047482/adae2f86-a669-418f-aa17-cbc1faff1465)
 
 ### Објаснување на Unit Tests
-Имаме 2 функции за Unit Testing, една за EveryBranch и една за MultipleCondition\
+Имаме 2 функции за Unit Testing, една за EveryBranch и една за MultipleCondition
 * #### EveryBranch testing:
   *   Test 1 кој тестира внес кога allItems=null
   *   Test 2 кој тестира невалиден карактер во баркод
